@@ -96,7 +96,7 @@ a {
     background: #ffffff;
     color: #000000;
     border: 2px solid #000000; 
-    padding: 24px 68px;
+    padding: 23px 68px;
     max-width: 100%;
 }
 
@@ -403,11 +403,8 @@ a {
         text-align: center;
     }
     .text {
-        color: var(--, #161515);
         font-size: 24px;
         font-weight: 300;
-        line-height: 155%; /* 49.6px */
-        text-align: center;  
     }
 
     .img1 {
@@ -423,7 +420,6 @@ a {
        }         
 
     .img-background-2 {
-        background: #F8F8F8;
         width: auto;
         height: auto;
         margin-left: auto;
@@ -433,7 +429,6 @@ a {
         margin-top: 85px;
     }
     .img-background-1 {
-        background: #F8F8F8;
         width: auto;
         height: auto;
         margin-left: auto;
@@ -462,13 +457,7 @@ a {
     }
 
     .models {
-        color: #000;
-        text-align: center;
-        font-family: League Spartan;
         font-size: 50px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 112.5%; /* 81px */
     }
        
 }
